@@ -1,4 +1,4 @@
-package Apna_College.Pattern;
+package Pattern;
 
 public class character {
     public static void main(String[] args) {

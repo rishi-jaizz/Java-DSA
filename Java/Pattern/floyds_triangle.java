@@ -1,4 +1,4 @@
-package Apna_College.Pattern;
+package Pattern;
 
 public class floyds_triangle {
     public static void main(String[] args) {
