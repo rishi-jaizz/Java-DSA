@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Linear_search {
     public static int linearSearch(int numbers[], int key){
         for(int i=0; i<numbers.length; i++){

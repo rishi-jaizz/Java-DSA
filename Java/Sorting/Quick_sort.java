@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Quick_sort {
     public static void main(String[] args) {
         int ar[] = {10, 7, 8, 9, 1, 53,55,6,2,4};

@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Instertion_sort {
     public static void sort(int arr[]) {
         int n = arr.length;

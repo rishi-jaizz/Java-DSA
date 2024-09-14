@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Bubble_sort {
     public static void bubbleSort(int arr[]) {
         for(int turn=0; turn<arr.length-1; turn++){
