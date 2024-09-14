@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Binary_search {
     public static int binarySearch (int numbers [], int key) {
         int start = 0, end = numbers. length-1;
