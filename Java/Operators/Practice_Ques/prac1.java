@@ -1,4 +1,3 @@
-// package Operators.Practice_Ques;
 public class prac1 {
         public static void main(String[] args){
             int x = 2, y = 5;
